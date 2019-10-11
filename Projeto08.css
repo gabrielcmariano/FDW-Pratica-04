@@ -1,0 +1,11 @@
+.valor {
+    background-color: orange;
+    color: black;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.resp {
+    background-color: black;
+    font-size: 15px;
+    color: white;
+}
